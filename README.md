@@ -1,5 +1,8 @@
 # rick-and-morty
 
+Visita la web en tiempo real:
+https://rickandmortycharactersmps.netlify.app/
+
 ## Project setup
 ```
 npm install
